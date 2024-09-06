@@ -91,7 +91,7 @@ Then setup new database connection in PhpStorm through the exposed port, for exa
 3. Set "User:" field to 'moodle'
 4. Set "Password:" field to 'm@0dl3ing'
 5. Set "Database:" field to 'moodle'
-6. Set "Host:" to db.mdc-moodle.orb.local, keep "Port:" to default database port
+6. Set "Host:" to db.moodle.orb.local, keep "Port:" to default database port
 7. Press "OK"
 8. Refresh the database metadata
 9. Open "Preferences / Language & Frameworks / SQL Dialects"
